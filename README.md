@@ -1,2 +1,2 @@
 # Oxford-Deep-NLP
-Repo for Oxford's Deep NLP Course Assignments
+Repo for Oxford CS - Deep NLP 2017 Assignments
